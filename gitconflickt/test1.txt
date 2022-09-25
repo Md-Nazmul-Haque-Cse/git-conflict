@@ -3,4 +3,5 @@ My Home District is Chuadanga
 New line added
 Hi.
 hit
-new c
+conflict line
+
